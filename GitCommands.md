@@ -20,7 +20,7 @@ After making changes, use the following line of code to commit and effect the ch
 (5) git push origin `<branch>`
 <br>
 <br>
-After this first initial channges, subsequent changes can be made by simply using: <br>
+After this first initial changes, subsequent changes can be made by simply using: <br>
 (1) git add . <br>
 (2) git commit -m "changes" <br>
 (3) git push

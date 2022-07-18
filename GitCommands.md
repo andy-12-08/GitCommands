@@ -6,9 +6,9 @@ git pull `<url>`  `<branch>`
 <br>
  An alternative approach is:
 <br>
-git init<br>
-git pull `<url>` <br>
-git pull origin `<branch>` 
+(1) git init &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #this would create a new brach called 'master' on your local remote repository. You can either coose to commit tho this new master branch or commit to your existing main branch. However, ***git branch -M `<branch name>`*** will create a brach on your local repository with a specified name.<br> 
+(2) git pull `<url>` <br>
+(3) git pull origin `<branch>` 
 
 <br>
 After making changes, use the following line of code to commit and effect the changes on your github repository: <br>

@@ -11,15 +11,15 @@ The following commands can be useful when downloading a specific branch from you
 (3) git pull origin `<branch>` 
 <br>
 <br>
-Sometimes you can decide to pull all the existing branch on your repository, before moving to a specific branch, in that case; <br>
+Sometimes, you can decide to pull all the existing branch on your repository, before moving to a specific branch, in that case; <br>
 (1) git init <br>
 (2) git remote add origin `<url>` <br>
 (3) git fetch --all <br>
 (4) git checkout  `<branch>` <br>
 <br>
-Also if you only wat to pull down that specific branch, you can alternatively use; <br>
+Also, if you only wat to pull down that specific branch, you can alternatively use; <br>
 (1) git init<br>
-(2) git remote add origin `<url>`
+(2) git remote add origin `<url>` <br>
 (3) git fetch origin `<branch>` <br>
 (4) git checkout  `<branch>`
 

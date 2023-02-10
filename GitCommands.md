@@ -39,4 +39,10 @@ After this first initial changes, subsequent changes can be made by simply using
 (3) git push <br>
 <br>
 
+<br>
+When your local repository is not up to date with your remote repository: <br>
+(1) First run git status. <br>
+(2)Then run git fetch. <br>
+(3) Next, run git status again. Git will say your branch is one commit behind. <br>
+(4) Finally, run git pull to update your local branch.
 

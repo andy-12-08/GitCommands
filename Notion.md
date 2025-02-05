@@ -12,7 +12,7 @@
 **bold**       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ```**text** or __text__```        
 
 
-- Unrdered list       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ```-, +, or - ```                  
+- Unordered list       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ```-, +, or - ```                  
 
 > Toggle block       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ```> ``` 
 
